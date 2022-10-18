@@ -1,0 +1,7 @@
+/bundler
+/node_modules
+/package-lock.json
+/package.json
+/readme.md
+/src
+/static
